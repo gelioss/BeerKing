@@ -1,2 +1,3 @@
 $(function() {
+	bk = new BeerKing();
 });
